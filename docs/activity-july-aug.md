@@ -44,3 +44,4 @@
 - 2026-08-24 11:08:00 : fix: correct logger output (#42)
 - 2026-08-26 20:55:00 : test: add manual verification snippet (#43)
 - 2026-08-26 15:28:00 : refactor: improve helper typings (#44)
+- 2026-07-01 22:44:00 : feat: enhance response helper (+1)
