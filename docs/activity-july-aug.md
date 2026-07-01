@@ -46,3 +46,4 @@
 - 2026-08-26 15:28:00 : refactor: improve helper typings (#44)
 - 2026-07-01 22:44:00 : feat: enhance response helper (+1)
 - 2026-07-01 14:44:53 : feat: add validation edge cases (+2)
+- 2026-07-01 13:43:49 : feat: add error handling (+3)
