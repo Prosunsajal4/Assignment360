@@ -87,3 +87,4 @@
 - 2026-07-09 10:49:48 : feat: add error handling (+5)
 - 2026-07-09 18:26:48 : feat: add error handling (+6)
 - 2026-07-09 14:27:25 : perf: cache string utils (+7)
+- 2026-07-09 20:05:38 : docs: update usage examples (+8)
