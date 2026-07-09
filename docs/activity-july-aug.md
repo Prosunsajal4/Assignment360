@@ -82,3 +82,4 @@
 - 2026-07-03 11:27:12 : fix: correct logger output (+11)
 - 2026-07-09 09:40:33 : test: add manual verification snippet (+1)
 - 2026-07-09 20:21:23 : feat: add error handling (+2)
+- 2026-07-09 11:10:58 : docs: update usage examples (+3)
