@@ -154,3 +154,4 @@
 - 2026-07-13 08:33:03 : fix: correct logger output (+38)
 - 2026-07-13 17:16:11 : feat: add validation edge cases (+39)
 - 2026-07-13 15:57:51 : feat: add error handling (+40)
+- 2026-07-13 17:40:10 : docs: update usage examples (+41)
