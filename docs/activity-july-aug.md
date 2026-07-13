@@ -150,3 +150,4 @@
 - 2026-07-13 16:17:06 : style: format code with prettier (+34)
 - 2026-07-13 20:16:05 : refactor: improve helper typings (+35)
 - 2026-07-13 13:46:32 : chore: lint fix (+36)
+- 2026-07-13 12:48:59 : refactor: simplify file helper (+37)
