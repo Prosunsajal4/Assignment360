@@ -125,3 +125,4 @@
 - 2026-07-13 14:21:19 : feat: add error handling (+9)
 - 2026-07-13 17:11:22 : docs: update usage examples (+10)
 - 2026-07-13 12:20:31 : chore: cleanup imports (+11)
+- 2026-07-13 14:34:59 : style: format code with prettier (+12)
