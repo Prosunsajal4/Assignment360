@@ -148,3 +148,4 @@
 - 2026-07-13 15:02:49 : fix: handle edge case in date utils (+32)
 - 2026-07-13 09:40:00 : test: add manual verification snippet (+33)
 - 2026-07-13 16:17:06 : style: format code with prettier (+34)
+- 2026-07-13 20:16:05 : refactor: improve helper typings (+35)
