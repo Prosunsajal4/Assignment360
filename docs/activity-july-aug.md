@@ -143,3 +143,4 @@
 - 2026-07-13 14:27:51 : feat: add error handling (+27)
 - 2026-07-13 12:51:50 : build: update tsconfig comment (+28)
 - 2026-07-13 08:26:12 : test: add manual verification snippet (+29)
+- 2026-07-13 10:21:17 : docs: update usage examples (+30)
