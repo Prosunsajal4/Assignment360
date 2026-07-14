@@ -164,3 +164,4 @@
 - 2026-07-14 21:13:00 : feat: add error handling (+4)
 - 2026-07-14 22:25:46 : style: format code with prettier (+5)
 - 2026-07-14 09:19:54 : feat: optimize pagination logic (+6)
+- 2026-07-14 18:41:47 : refactor: improve helper typings (+7)
