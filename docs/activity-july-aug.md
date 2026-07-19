@@ -187,3 +187,4 @@
 - 2026-07-19 10:04:49 : feat: enhance response helper (+7)
 - 2026-07-19 16:00:02 : chore: lint fix (+8)
 - 2026-07-19 11:20:50 : docs: update usage examples (+9)
+- 2026-07-19 12:09:03 : docs: update usage examples (+10)
