@@ -183,3 +183,4 @@
 - 2026-07-19 20:11:27 : docs: add jsdoc comments (+3)
 - 2026-07-19 10:45:08 : perf: cache string utils (+4)
 - 2026-07-19 12:05:47 : feat: add validation edge cases (+5)
+- 2026-07-19 13:20:36 : refactor: simplify file helper (+6)
