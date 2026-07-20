@@ -232,3 +232,4 @@
 - 2026-07-20 13:42:23 : fix: correct logger output (+26)
 - 2026-07-20 18:41:00 : build: update tsconfig comment (+27)
 - 2026-07-20 13:29:49 : fix: correct logger output (+28)
+- 2026-07-20 20:02:09 : docs: add jsdoc comments (+29)
