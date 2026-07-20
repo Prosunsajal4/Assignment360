@@ -212,3 +212,4 @@
 - 2026-07-20 19:25:29 : chore: cleanup imports (+6)
 - 2026-07-20 22:57:28 : docs: add jsdoc comments (+7)
 - 2026-07-20 14:21:51 : style: format code with prettier (+8)
+- 2026-07-20 09:21:28 : refactor: improve helper typings (+9)
