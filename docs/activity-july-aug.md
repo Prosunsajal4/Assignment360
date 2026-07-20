@@ -208,3 +208,4 @@
 - 2026-07-20 15:38:56 : docs: add jsdoc comments (+2)
 - 2026-07-20 08:07:39 : refactor: improve helper typings (+3)
 - 2026-07-20 17:25:16 : docs: update usage examples (+4)
+- 2026-07-20 14:34:43 : refactor: simplify file helper (+5)
