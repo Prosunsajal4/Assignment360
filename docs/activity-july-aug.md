@@ -206,3 +206,4 @@
 - 2026-07-19 15:11:06 : refactor: simplify file helper (+26)
 - 2026-07-20 16:25:59 : chore: lint fix (+1)
 - 2026-07-20 15:38:56 : docs: add jsdoc comments (+2)
+- 2026-07-20 08:07:39 : refactor: improve helper typings (+3)
