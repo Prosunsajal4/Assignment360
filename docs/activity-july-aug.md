@@ -15,3 +15,4 @@
 - 2026-07-19 10:35:00 : fix: correct logger output (#13)
 - 2026-07-19 13:16:00 : refactor: improve helper typings (#14)
 - 2026-07-19 11:26:00 : perf: cache string utils (#15)
+- 2026-07-20 17:14:00 : refactor: simplify file helper (#16)
