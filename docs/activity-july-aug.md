@@ -237,3 +237,4 @@
 - 2026-07-21 17:05:49 : fix: typo correction (+1)
 - 2026-07-21 14:01:59 : feat: enhance response helper (+2)
 - 2026-07-21 10:03:55 : feat: enhance response helper (+3)
+- 2026-07-21 11:30:31 : chore: update constants (+4)
