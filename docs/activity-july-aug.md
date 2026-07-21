@@ -253,3 +253,4 @@
 - 2026-07-21 19:59:38 : fix: typo correction (+17)
 - 2026-07-21 10:14:56 : fix: handle edge case in date utils (+18)
 - 2026-07-21 19:18:48 : docs: update usage examples (+19)
+- 2026-07-21 10:37:47 : feat: enhance response helper (+20)
