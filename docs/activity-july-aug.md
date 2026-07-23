@@ -266,3 +266,4 @@
 - 2026-07-23 22:04:00 : build: update tsconfig comment (+3)
 - 2026-07-23 12:48:40 : chore: update constants (+4)
 - 2026-07-23 09:09:19 : style: format code with prettier (+5)
+- 2026-07-23 10:20:19 : docs: update usage examples (+6)
