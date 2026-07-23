@@ -264,3 +264,4 @@
 - 2026-07-23 14:15:54 : docs: update usage examples (+1)
 - 2026-07-23 08:43:34 : refactor: simplify file helper (+2)
 - 2026-07-23 22:04:00 : build: update tsconfig comment (+3)
+- 2026-07-23 12:48:40 : chore: update constants (+4)
