@@ -262,3 +262,4 @@
 - 2026-07-21 19:07:19 : perf: cache string utils (+26)
 - 2026-07-21 19:02:18 : feat: optimize pagination logic (+27)
 - 2026-07-23 14:15:54 : docs: update usage examples (+1)
+- 2026-07-23 08:43:34 : refactor: simplify file helper (+2)
