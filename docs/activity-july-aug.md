@@ -267,3 +267,4 @@
 - 2026-07-23 12:48:40 : chore: update constants (+4)
 - 2026-07-23 09:09:19 : style: format code with prettier (+5)
 - 2026-07-23 10:20:19 : docs: update usage examples (+6)
+- 2026-07-23 18:46:42 : refactor: improve helper typings (+7)
