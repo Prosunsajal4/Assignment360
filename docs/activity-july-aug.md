@@ -19,3 +19,4 @@
 - 2026-07-20 15:36:00 : perf: cache string utils (#17)
 - 2026-07-21 15:45:00 : docs: update usage examples (#18)
 - 2026-07-21 13:08:00 : refactor: simplify file helper (#19)
+- 2026-07-23 11:33:00 : feat: enhance response helper (#20)
