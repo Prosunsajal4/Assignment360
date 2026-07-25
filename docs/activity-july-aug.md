@@ -299,3 +299,4 @@
 - 2026-07-25 18:54:42 : docs: add jsdoc comments (+23)
 - 2026-07-25 15:30:01 : docs: add jsdoc comments (+24)
 - 2026-07-25 21:16:21 : fix: typo correction (+25)
+- 2026-07-25 14:25:43 : feat: enhance response helper (+26)
