@@ -23,3 +23,4 @@
 - 2026-07-23 13:40:00 : docs: add jsdoc comments (#21)
 - 2026-07-25 15:20:00 : refactor: improve helper typings (#22)
 - 2026-07-25 13:03:00 : chore: cleanup imports (#23)
+- 2026-07-25 10:54:00 : feat: enhance response helper (#24)
