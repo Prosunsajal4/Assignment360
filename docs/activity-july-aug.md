@@ -302,3 +302,4 @@
 - 2026-07-25 14:25:43 : feat: enhance response helper (+26)
 - 2026-07-25 15:54:39 : feat: enhance response helper (+27)
 - 2026-07-30 09:43:53 : fix: correct logger output (+1)
+- 2026-07-30 16:55:52 : chore: update constants (+2)
