@@ -306,3 +306,4 @@
 - 2026-07-30 13:22:35 : perf: cache string utils (+3)
 - 2026-07-30 19:36:21 : docs: add jsdoc comments (+4)
 - 2026-07-30 14:30:57 : test: add manual verification snippet (+5)
+- 2026-07-30 21:13:07 : docs: update usage examples (+6)
