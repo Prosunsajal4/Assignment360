@@ -314,3 +314,4 @@
 - 2026-07-30 20:57:21 : feat: add error handling (+11)
 - 2026-07-30 09:20:42 : chore: update constants (+12)
 - 2026-07-30 20:00:43 : docs: add jsdoc comments (+13)
+- 2026-07-30 16:03:25 : feat: enhance response helper (+14)
