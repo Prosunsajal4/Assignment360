@@ -313,3 +313,4 @@
 - 2026-07-30 18:15:09 : refactor: improve helper typings (+10)
 - 2026-07-30 20:57:21 : feat: add error handling (+11)
 - 2026-07-30 09:20:42 : chore: update constants (+12)
+- 2026-07-30 20:00:43 : docs: add jsdoc comments (+13)
