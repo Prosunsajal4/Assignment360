@@ -309,3 +309,4 @@
 - 2026-07-30 21:13:07 : docs: update usage examples (+6)
 - 2026-07-30 21:15:46 : feat: enhance response helper (+7)
 - 2026-07-30 08:55:02 : refactor: improve helper typings (+8)
+- 2026-07-30 14:44:51 : test: add manual verification snippet (+9)
