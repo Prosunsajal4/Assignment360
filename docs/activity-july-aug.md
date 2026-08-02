@@ -323,3 +323,4 @@
 - 2026-08-02 12:50:47 : test: add manual verification snippet (+6)
 - 2026-08-02 22:14:58 : chore: update constants (+7)
 - 2026-08-02 21:15:19 : perf: cache string utils (+8)
+- 2026-08-02 08:06:23 : refactor: simplify file helper (+9)
