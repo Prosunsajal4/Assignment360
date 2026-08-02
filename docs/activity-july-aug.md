@@ -321,3 +321,4 @@
 - 2026-08-02 15:34:30 : chore: cleanup imports (+4)
 - 2026-08-02 22:30:23 : perf: cache string utils (+5)
 - 2026-08-02 12:50:47 : test: add manual verification snippet (+6)
+- 2026-08-02 22:14:58 : chore: update constants (+7)
