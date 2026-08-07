@@ -349,3 +349,4 @@
 - 2026-08-07 14:52:58 : perf: cache string utils (+18)
 - 2026-08-07 18:35:40 : refactor: improve helper typings (+19)
 - 2026-08-07 20:21:55 : chore: update constants (+20)
+- 2026-08-07 20:30:11 : chore: update constants (+21)
