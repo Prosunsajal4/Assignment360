@@ -330,3 +330,4 @@
 - 2026-08-02 20:38:35 : fix: typo correction (+13)
 - 2026-08-02 10:30:46 : refactor: improve helper typings (+14)
 - 2026-08-07 15:52:07 : fix: handle edge case in date utils (+1)
+- 2026-08-07 21:45:14 : docs: update usage examples (+2)
