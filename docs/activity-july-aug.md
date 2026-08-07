@@ -333,3 +333,4 @@
 - 2026-08-07 21:45:14 : docs: update usage examples (+2)
 - 2026-08-07 13:50:09 : feat: enhance response helper (+3)
 - 2026-08-07 20:37:26 : refactor: improve helper typings (+4)
+- 2026-08-07 19:47:07 : feat: add validation edge cases (+5)
