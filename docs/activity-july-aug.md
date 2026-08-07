@@ -329,3 +329,4 @@
 - 2026-08-02 20:38:31 : chore: lint fix (+12)
 - 2026-08-02 20:38:35 : fix: typo correction (+13)
 - 2026-08-02 10:30:46 : refactor: improve helper typings (+14)
+- 2026-08-07 15:52:07 : fix: handle edge case in date utils (+1)
