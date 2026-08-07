@@ -347,3 +347,4 @@
 - 2026-08-07 19:48:02 : test: add manual verification snippet (+16)
 - 2026-08-07 08:42:48 : test: add manual verification snippet (+17)
 - 2026-08-07 14:52:58 : perf: cache string utils (+18)
+- 2026-08-07 18:35:40 : refactor: improve helper typings (+19)
