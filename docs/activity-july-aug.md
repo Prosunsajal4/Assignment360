@@ -29,3 +29,4 @@
 - 2026-08-02 17:13:00 : fix: correct logger output (#27)
 - 2026-08-02 12:38:00 : chore: update constants (#28)
 - 2026-08-07 14:38:00 : docs: update usage examples (#29)
+- 2026-08-07 11:09:00 : feat: optimize pagination logic (#30)
