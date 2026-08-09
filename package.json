@@ -1,0 +1,36 @@
+{
+  "name": "assignment360",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "lint": "eslint . --ext .ts",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "knex": "knex --knexfile src/config/knexfile.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prosunsajal4/Assignment360.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Prosunsajal4/Assignment360/issues"
+  },
+  "homepage": "https://github.com/Prosunsajal4/Assignment360#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "joi": "^18.2.3",
+    "jsonwebtoken": "^9.0.3",
+    "knex": "^3.3.0",
+    "multer": "^2.2.0",
+    "pg": "^8.23.0"
+  }
+}
