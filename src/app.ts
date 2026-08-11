@@ -5,6 +5,7 @@ import { config } from './config/env';
 import authRoutes from './routes/auth.routes';
 import vehicleRoutes from './routes/vehicle.routes';
 import rentalRoutes from './routes/rental.routes';
+import reportRoutes from './routes/report.routes';
 
 export class App {
   public app: Application;
@@ -37,6 +38,7 @@ export class App {
     this.app.use('/auth', authRoutes);
     this.app.use('/vehicles', vehicleRoutes);
     this.app.use('/rentals', rentalRoutes);
+    this.app.use('/reports', reportRoutes);
   }
 
   public listen(): void {
