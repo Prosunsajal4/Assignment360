@@ -375,3 +375,4 @@
 - 2026-08-12 11:18:11 : fix: handle edge case in date utils (+23)
 - 2026-08-12 15:45:51 : chore: lint fix (+24)
 - 2026-08-12 22:44:19 : docs: update usage examples (+25)
+- 2026-08-12 21:54:58 : refactor: improve helper typings (+26)
