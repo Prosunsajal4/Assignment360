@@ -376,3 +376,4 @@
 - 2026-08-12 15:45:51 : chore: lint fix (+24)
 - 2026-08-12 22:44:19 : docs: update usage examples (+25)
 - 2026-08-12 21:54:58 : refactor: improve helper typings (+26)
+- 2026-08-12 19:32:44 : feat: enhance response helper (+27)
