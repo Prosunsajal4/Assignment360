@@ -371,3 +371,4 @@
 - 2026-08-12 20:10:55 : build: update tsconfig comment (+19)
 - 2026-08-12 15:49:17 : refactor: simplify file helper (+20)
 - 2026-08-12 11:26:57 : test: add manual verification snippet (+21)
+- 2026-08-12 08:42:22 : docs: add jsdoc comments (+22)
