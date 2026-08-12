@@ -369,3 +369,4 @@
 - 2026-08-12 15:36:18 : chore: cleanup imports (+17)
 - 2026-08-12 22:32:26 : fix: correct logger output (+18)
 - 2026-08-12 20:10:55 : build: update tsconfig comment (+19)
+- 2026-08-12 15:49:17 : refactor: simplify file helper (+20)
