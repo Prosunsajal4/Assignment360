@@ -382,3 +382,4 @@
 - 2026-08-12 12:45:11 : refactor: simplify file helper (+30)
 - 2026-08-12 19:26:51 : fix: correct logger output (+31)
 - 2026-08-12 09:56:41 : fix: handle edge case in date utils (+32)
+- 2026-08-12 11:20:29 : refactor: simplify file helper (+33)
