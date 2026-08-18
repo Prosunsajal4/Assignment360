@@ -398,3 +398,4 @@
 - 2026-08-18 17:46:00 : style: format code with prettier (+8)
 - 2026-08-18 15:54:18 : style: format code with prettier (+9)
 - 2026-08-18 15:04:33 : docs: add jsdoc comments (+10)
+- 2026-08-18 18:57:10 : fix: handle edge case in date utils (+11)
