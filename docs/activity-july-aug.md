@@ -395,3 +395,4 @@
 - 2026-08-18 11:43:18 : feat: add validation edge cases (+5)
 - 2026-08-18 10:53:39 : build: update tsconfig comment (+6)
 - 2026-08-18 14:38:37 : refactor: improve helper typings (+7)
+- 2026-08-18 17:46:00 : style: format code with prettier (+8)
