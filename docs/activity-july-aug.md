@@ -391,3 +391,4 @@
 - 2026-08-18 17:52:57 : chore: lint fix (+1)
 - 2026-08-18 14:59:33 : test: add manual verification snippet (+2)
 - 2026-08-18 14:20:00 : build: update tsconfig comment (+3)
+- 2026-08-18 12:31:32 : docs: update usage examples (+4)
