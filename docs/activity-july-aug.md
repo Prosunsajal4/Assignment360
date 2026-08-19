@@ -408,3 +408,4 @@
 - 2026-08-19 15:57:29 : fix: typo correction (+6)
 - 2026-08-19 08:56:16 : refactor: improve helper typings (+7)
 - 2026-08-19 13:57:48 : docs: update usage examples (+8)
+- 2026-08-19 12:43:44 : feat: add validation edge cases (+9)
