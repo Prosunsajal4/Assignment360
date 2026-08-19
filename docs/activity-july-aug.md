@@ -409,3 +409,4 @@
 - 2026-08-19 08:56:16 : refactor: improve helper typings (+7)
 - 2026-08-19 13:57:48 : docs: update usage examples (+8)
 - 2026-08-19 12:43:44 : feat: add validation edge cases (+9)
+- 2026-08-19 18:16:30 : test: add manual verification snippet (+10)
