@@ -37,3 +37,4 @@
 - 2026-08-18 09:01:00 : docs: add jsdoc comments (#35)
 - 2026-08-18 20:48:00 : refactor: improve helper typings (#36)
 - 2026-08-19 16:49:00 : fix: handle edge case in date utils (#37)
+- 2026-08-19 16:58:00 : refactor: simplify file helper (#38)
