@@ -406,3 +406,4 @@
 - 2026-08-19 22:20:31 : build: update tsconfig comment (+4)
 - 2026-08-19 21:00:16 : feat: add error handling (+5)
 - 2026-08-19 15:57:29 : fix: typo correction (+6)
+- 2026-08-19 08:56:16 : refactor: improve helper typings (+7)
