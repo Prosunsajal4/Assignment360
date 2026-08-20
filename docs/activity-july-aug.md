@@ -434,3 +434,4 @@
 - 2026-08-20 17:52:35 : docs: update usage examples (+22)
 - 2026-08-20 11:27:49 : docs: add jsdoc comments (+23)
 - 2026-08-20 20:14:19 : perf: cache string utils (+24)
+- 2026-08-20 21:11:09 : docs: update usage examples (+25)
