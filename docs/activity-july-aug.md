@@ -431,3 +431,4 @@
 - 2026-08-20 19:13:53 : perf: cache string utils (+19)
 - 2026-08-20 18:39:34 : fix: correct logger output (+20)
 - 2026-08-20 22:57:00 : fix: typo correction (+21)
+- 2026-08-20 17:52:35 : docs: update usage examples (+22)
