@@ -420,3 +420,4 @@
 - 2026-08-20 08:03:41 : docs: add jsdoc comments (+8)
 - 2026-08-20 12:22:35 : perf: cache string utils (+9)
 - 2026-08-20 12:41:38 : docs: add jsdoc comments (+10)
+- 2026-08-20 16:00:16 : refactor: improve helper typings (+11)
