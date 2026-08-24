@@ -41,3 +41,4 @@
 - 2026-08-20 17:32:00 : perf: cache string utils (#39)
 - 2026-08-20 20:09:00 : perf: cache string utils (#40)
 - 2026-08-20 11:25:00 : perf: cache string utils (#41)
+- 2026-08-24 11:08:00 : fix: correct logger output (#42)
