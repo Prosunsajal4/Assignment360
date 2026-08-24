@@ -462,3 +462,4 @@
 - 2026-08-24 13:43:28 : feat: add error handling (+12)
 - 2026-08-24 13:49:55 : refactor: improve helper typings (+13)
 - 2026-08-24 17:27:47 : chore: lint fix (+14)
+- 2026-08-24 09:20:04 : docs: add jsdoc comments (+15)
