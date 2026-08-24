@@ -470,3 +470,4 @@
 - 2026-08-24 11:12:14 : feat: optimize pagination logic (+20)
 - 2026-08-24 17:49:29 : docs: update usage examples (+22)
 - 2026-08-24 22:55:43 : chore: update constants (+23)
+- 2026-08-24 15:28:40 : feat: add error handling (+24)
