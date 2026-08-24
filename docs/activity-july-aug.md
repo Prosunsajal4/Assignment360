@@ -449,3 +449,4 @@
 - 2026-08-20 16:01:45 : refactor: simplify file helper (+37)
 - 2026-08-20 10:48:23 : chore: update constants (+38)
 - 2026-08-24 11:28:52 : fix: handle edge case in date utils (+1)
+- 2026-08-24 17:02:18 : feat: add error handling (+2)
