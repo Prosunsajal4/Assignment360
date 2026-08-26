@@ -488,3 +488,4 @@
 - 2026-08-26 13:42:12 : refactor: improve helper typings (+14)
 - 2026-08-26 09:05:49 : chore: update constants (+15)
 - 2026-08-26 10:27:55 : test: add manual verification snippet (+16)
+- 2026-08-26 21:15:34 : feat: add validation edge cases (+17)
