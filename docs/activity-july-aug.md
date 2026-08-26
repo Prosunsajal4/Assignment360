@@ -473,3 +473,4 @@
 - 2026-08-24 15:28:40 : feat: add error handling (+24)
 - 2026-08-24 20:41:14 : feat: optimize pagination logic (+25)
 - 2026-08-26 18:05:30 : fix: handle edge case in date utils (+1)
+- 2026-08-26 20:42:07 : refactor: improve helper typings (+2)
