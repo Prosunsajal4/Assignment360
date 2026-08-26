@@ -505,3 +505,4 @@
 - 2026-08-26 22:32:40 : fix: handle edge case in date utils (+31)
 - 2026-08-26 17:08:42 : refactor: improve helper typings (+32)
 - 2026-08-26 11:57:41 : build: update tsconfig comment (+33)
+- 2026-08-26 21:05:40 : refactor: simplify file helper (+34)
